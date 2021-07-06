@@ -135,6 +135,3 @@ dmypy.json
 
 # Stuff for my own reference
 /internal_notes/
-
-# Data
-**/data
