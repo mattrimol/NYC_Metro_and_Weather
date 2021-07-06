@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+### MY EDITS ###
+
+# Documentation used for class that I don't want up on github for employers
+/unused_documentation/
+
+# Stuff for my own reference
+/internal_notes/
+
+# Data
+code/data/**
