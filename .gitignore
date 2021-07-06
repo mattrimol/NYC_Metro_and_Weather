@@ -137,4 +137,4 @@ dmypy.json
 /internal_notes/
 
 # Data
-code/data/**
+**/data
